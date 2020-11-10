@@ -20,7 +20,7 @@
 - Inquirer package
 
 ## Image
-![Screenshot Image](Media/README-screenshot.png)
+![Screenshot Image](../Media/README-screenshot.png)
 
 ## Contribution
 - Enxhi Salaj
