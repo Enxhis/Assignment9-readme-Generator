@@ -1,7 +1,7 @@
 # Good README Generator
 
   ## Description
-  It is important to create quality README with information about the app. This is a command-line application that allows a project createor to generate quick and easy README.
+  It is important to create quality README with information about the application. This is a command-line application that allows a project creator to generate quick, easy and professional README.
 
   ## Licence Badge
   ![License badge](https://img.shields.io/badge/license-MIT-green)
@@ -16,17 +16,17 @@
   6. [Questions](#questions)
 
   ## Installation
-  Firstly install node in your machine. Before running the code, do a npm install. After the installation is done, run the code with node as node index.js. Then answer the command-line questions and the README.md will be generated.
+  - Install node in your machine \ - Npm install \- Run the code as: node index.js \- Answer the command-line questions \- README.md will be generated
 
   ## Usage
-  Given a command-line application that accepts user input, when the user is prompted for information about the repository, a quality and professional README.md is generated with the Title, Description, Table of Content, Installation, Usage, Licence, Contributing, Tests and Questions
+  Given a command-line application that accepts user inout, when the user is prompted for information about the repository, a quality and professional README.md is generated with the Title, Description, Table of Content, Installation, Usage, Licence, Contrubutions, Tests and Questions
 
   ## Licence
   MIT
   *  ![License badge](https://img.shields.io/badge/license-MIT-green)
 
   ## Tests
-  Manual Testing, run the code and discover errors 
+  Manual Testing has been used for this project. Run the code and discover possible errors
 
   ## Contribution
   Enxhi Salaj
