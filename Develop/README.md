@@ -16,7 +16,11 @@
   6. [Questions](#questions)
 
   ## Installation
-  - Install node in your machine.   - Npm install.   - Run the code as: node index.js.   - Answer the command-line questions.   - README.md will be generated
+  - Install node in your machine.   
+  - Npm install.   
+  - Run the code as: node index.js.   
+  - Answer the command-line questions.   
+  - README.md will be generated
 
   ## Usage
   Given a command-line application that accepts user inout, when the user is prompted for information about the repository, a quality and professional README.md is generated with the Title, Description, Table of Content, Installation, Usage, Licence, Contrubutions, Tests and Questions.
