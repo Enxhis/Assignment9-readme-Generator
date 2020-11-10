@@ -35,14 +35,9 @@ const questions = [
         name: "testing"
     },
     {
-        type: "list",
+        type: "input",
         message: "Provide licence used for this project (MIT/ BSD/ GPL): ",
-        name: "licence",
-        choice: [
-            "MIT",
-            "BSD",
-            "GPL"
-        ]
+        name: "license",
     },
     {
         type: "input",
