@@ -1,4 +1,4 @@
-# Assignment9-readme-Generator
+# readme-Generator
 
 ## Description
 - It is important to create quality README with information about the application. This is a command-line application that allows a project creator to generate quick, easy and professional README.
